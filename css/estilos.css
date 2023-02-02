@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: grey;
+    animation-name: texto;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    margin-top: 15px
+    
+
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2? family= Roboto:wght@100 & display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url(..//imagenes/fondo\ de\ pantalla.webp);
+}
+
+header {
+    border-bottom: 5px solid black;
+}
+
+
+
+
+
+header ul li {
+    display: inline-block;
+    margin: 20px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font: weight bold;
+}
+
+.textos {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+footer {
+    border: 5px solid black;
+    text-align: center;
+}
+
+footer ul li {
+    list-style-type: none;
+}
+
+h1 {
+    animation-name: texto;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
